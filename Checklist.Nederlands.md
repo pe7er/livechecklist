@@ -34,6 +34,11 @@ Checklist ter controle voor livegang van een nieuwe Joomla website:
 ## .htaccess
 * Redirect non-www to www ingesteld in .htaccess?
 
+## Akeeba Backup
+* kickstart.php verwijderd uit root website?
+* .jpa backup file verwijderd uit root website?
+* Akeeba Backup beheerdersgedeelte evt voorzien van admin wachtwoord?
+
 ## Admin Tools Pro
 * Admin Tools Pro ingesteld?
 * Admin Tools Pro Never block these IPs [eigen IP-adres]
