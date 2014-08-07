@@ -34,6 +34,11 @@ Checklist to check before a Joomla website goes live:
 ## .htaccess
 * Redirect non-www to www setup in .htaccess?
 
+## Akeeba Backup
+* kickstart.php removed from root website?
+* .jpa backup file removed from root website?
+* Add password to Akeeba Backup Management Console?
+
 ## Admin Tools Pro
 * Admin Tools Pro installed and configured
 * Admin Tools Pro Never block these IPs [your own IP-address]
