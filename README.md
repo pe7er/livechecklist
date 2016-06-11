@@ -1,4 +1,4 @@
-Live Checlist
+Live Checklist
 =============
 
 Je Joomla website is klaar en kan live worden gezet, hoera!
